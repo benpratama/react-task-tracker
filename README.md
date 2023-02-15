@@ -72,3 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <!-- about  project -->
 step 1
 learn by doung react, create task tracker 
+
+<!-- TUTORNYA -->
+https://www.youtube.com/watch?v=w7ejDZ8SWv8
